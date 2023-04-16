@@ -13,7 +13,7 @@ body {
 
 .game-board {
     width: 100%;
-    height: 657px;
+    height: 656px;
     border-bottom: 14px solid #555e58;
     margin: 0 auto;
     position: relative;
